@@ -58,13 +58,13 @@ nav {
 
 .table {
     display: grid;
-    grid-gap: 15px;
+    grid-gap: 50px;
 }
 
 section  {
     background-color: whitesmoke;
     padding: 15px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
 }
 
 section h3 {
@@ -117,3 +117,4 @@ section p {
 .box11 {
   grid-column: 4 / -1;
 }
+
